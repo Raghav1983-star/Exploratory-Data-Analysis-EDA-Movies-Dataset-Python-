@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-EDA-Movies-Dataset-Python-
-This project involves individual, end-to-end exploratory data analysis (EDA) on a comprehensive movies dataset covering films released between 1916 and 2016. The objective is to extract data-driven insights related to movie profitability, ratings, genres, directors, actors, and audience engagement using Python.
-The project demonstrates practical application of Python, Pandas, NumPy, and structured EDA techniques to explore large datasets, clean raw data, engineer features, and generate insights suitable for business and analytical decision-making.
+This project involves **individual, end-to-end exploratory data analysis (EDA)** on a comprehensive movies dataset covering films released between 1916 and 2016. The objective is to extract**data-driven insights related to movie profitability, ratings, genres, directors, actors, and audience engagement** using Python.
+The project demonstrates practical application of **Python, Pandas, NumPy, and structured EDA techniques** to explore large datasets, clean raw data, engineer features, and generate insights suitable for **business and analytical decision-making.**
 
 **Business & Analytical Problem**
 
@@ -20,7 +20,7 @@ Which non-English movies feature among top IMDb-rated films?
 
 **Objectives**
 
-Perform structured data inspection and validation.
+Perform structured **data inspection and validation.**
 
 Clean and preprocess raw movie data by handling:
 
@@ -32,7 +32,7 @@ C) Duplicate records.
 
 D) Retain a statistically significant portion of data (~75%) post-cleaning.
 
-E) Engineer new analytical features such as Profit.
+E) Engineer new analytical features such as **Profit.**
 
 F) Conduct profitability, rating, genre, director, and actor-based analysis.
 
